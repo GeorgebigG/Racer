@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">გონკები</string>
+    <string name="Player">ვინ თამაშობს?</string>
+    <string name="startPlaying">დავიწყოთ თამაში</string>
+    <string name="Name">სახელი</string>
+    <string name="gameOver">თამაში დამთავრდა!</string>
+    <string name="yourHighScore">თქვენი რეკორდია:</string>
+    <string name="yourScore">თქვენი მიღებული ქულაა:</string>
+    <string name="PlayerName">მოთამაშე:</string>
+    <string name="Day">დღე:</string>
+    <string name="youArePlaying">თქვენ თამაშობთ:</string>
+    <string name="seeHistory">ისტორიის ნახვა</string>
+    <string name="playAgain">თავიდან</string>
+    <string name="second">წამი</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Гонки</string>
+    <string name="Player">Кто играет?</string>
+    <string name="startPlaying">Начать играть</string>
+    <string name="Name">Имя</string>
+    <string name="gameOver">Игра окончена!</string>
+    <string name="yourHighScore">Ваш рекорд является:</string>
+    <string name="yourScore">Ваш счет:</string>
+    <string name="PlayerName">Игрок:</string>
+    <string name="Day">День:</string>
+    <string name="youArePlaying">Вы играйте:</string>
+    <string name="seeHistory">Увидеть историю</string>
+    <string name="playAgain">Играть заново</string>
+    <string name="second">се</string>
+</resources>

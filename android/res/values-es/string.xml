@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carreras</string>
+    <string name="Player">¿Quien esta jugando?</string>
+    <string name="startPlaying">Jugar</string>
+    <string name="Name">Nombre</string>
+    <string name="gameOver">¡Juego terminado!</string>
+    <string name="yourHighScore">su puntuación más alta es:</string>
+    <string name="yourScore">tu puntaje es:</string>
+    <string name="PlayerName">Jugador:</string>
+    <string name="Day">Día:</string>
+    <string name="youArePlaying">Estás jugando:</string>
+    <string name="seeHistory">Ver la historia</string>
+    <string name="playAgain">Juega de nuevo</string>
+    <string name="second">s</string>
+</resources>

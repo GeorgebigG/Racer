@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Racing</string>
+
+    <string-array name="names"></string-array>
+
+    <string name="Player">Who is Playing?</string>
+    <string name="startPlaying">start playing</string>
+    <string name="Name">Name</string>
+    <string name="gameOver">Game over!</string>
+    <string name="yourHighScore">Your highscore is:</string>
+    <string name="yourScore">Your score is:</string>
+    <string name="PlayerName">Player:</string>
+    <string name="Day">Day:</string>
+    <string name="youArePlaying">You are playing:</string>
+    <string name="seeHistory">See history</string>
+    <string name="playAgain">Play again</string>
+    <string name="second">s</string>
+    <string name="yourSpeed">Your speed is:</string>
+    <string name="kmPh">km/h | Your fps is:</string>
+</resources>
